@@ -1,0 +1,1 @@
+echo 'Maven Build Successful'

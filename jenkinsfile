@@ -1,0 +1,5 @@
+echo 'pipeline starts'
+build()
+echo 'Static code starts'
+static_code_analysis()
+echo 'pipeline end'

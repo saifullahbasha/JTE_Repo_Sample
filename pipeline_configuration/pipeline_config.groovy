@@ -1,0 +1,5 @@
+libraires{
+    maven
+    sonarqube
+    gradle
+}
